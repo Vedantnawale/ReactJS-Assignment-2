@@ -1,0 +1,25 @@
+.github{
+    margin-top: 2rem;
+    flex-basis: 20%;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.github-name{
+    font-size: larger;
+    letter-spacing: 0.5rem;
+}
+
+.github-image {
+    margin-top: 1rem;
+    height: 150px;
+    max-height: 80%;
+}
+
+.github:hover{
+    background-color: beige;
+}

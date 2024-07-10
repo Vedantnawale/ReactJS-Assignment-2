@@ -1,0 +1,35 @@
+.github-details-name{
+    font-size: x-large;
+    color: black;
+    margin-top: 1rem;
+  
+}
+
+.github-details-name span{
+    letter-spacing: 0.3rem;
+}
+.github-details-bio{
+    font-size: 18px;
+}
+.github-details-bio span{
+    font-weight: bold;
+}
+
+
+.github_details-image{
+    max-height: 200px;
+    /* margin-top: 5rem; */
+}
+
+.github-details-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.github-numbers{
+    display: flex;
+    gap: 2rem;
+}

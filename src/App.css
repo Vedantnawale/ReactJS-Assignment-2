@@ -1,0 +1,17 @@
+#githubdex-heading{
+  margin: 0 auto;
+  letter-spacing: 5px;
+}
+.outer-githubdex{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+a:visited{
+ color: black; 
+}
+
+body{
+  background-color: rgb(169, 164, 164);
+}
